@@ -1,6 +1,6 @@
 Anggota kelompok dan peran dalam projek
 
-1.	Ade Firmansyah		19/440303/TK/48630
+1.	Ade Firmansyah			19/440303/TK/48630
 	- Mengimplemantasikan ide aplikasi menjadi desain program.
 	- Mencari assets.
 	- Membuat User Interface.
@@ -9,7 +9,8 @@ Anggota kelompok dan peran dalam projek
 	- Membuat main program.
 	- Melakukan debugging.
 
-2.	Saskia Dwi Ulfah	19/439822/TK/48552
+2.	Saskia Dwi Ulfah		19/439822/TK/48552
 	- Membuat code perhitungan BMI.
 
-3.		
+3.	Tengku Rafi Nugroho Maghribi	19/439823/TK/48553
+	- Menyusun dan memprogram User Interface di Visual Studio.
